@@ -1,3 +1,9 @@
 [submodule "LearnCode-frontend"]
 	path = LearnCode-frontend
 	url = git@github.com:banchengkemeng/LearnCode-frontend.git
+[submodule "LearnCode-backend"]
+	path = LearnCode-backend
+	url = git@github.com:banchengkemeng/LearnCode-backend.git
+[submodule "LearnCode-CodeSandbox"]
+	path = LearnCode-CodeSandbox
+	url = git@github.com:banchengkemeng/LearnCode-CodeSandbox.git
