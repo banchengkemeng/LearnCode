@@ -1,0 +1,3 @@
+[submodule "LearnCode-frontend"]
+	path = LearnCode-frontend
+	url = git@github.com:banchengkemeng/LearnCode-frontend.git
